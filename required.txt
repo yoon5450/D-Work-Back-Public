@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+pymongo
+dnspython
+python-dotenv
+bcrypt
+pytz
+beautifulsoup4
+requests
